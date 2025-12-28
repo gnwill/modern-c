@@ -1,5 +1,9 @@
-// Simple pun program written in C.
-// Author: William Gonzalez <email: will@wgz.sh>
+/*
+ * Name: pun.c                
+ * Purpose: Prints a bad pun. 
+ * Author: William Gonzalez   
+ */
+
 # include <stdio.h>
 
 int main(void) {

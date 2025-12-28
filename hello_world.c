@@ -1,5 +1,6 @@
-// Simple hello world program written in C.
-// Author: William Gonzalez <email: will@wgz.sh>
+// * Simple hello world program written in C.
+// * Author: William Gonzalez <email: will@wgz.sh>
+
 # include <stdio.h>
 
 int main(void) {
