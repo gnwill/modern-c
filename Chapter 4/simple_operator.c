@@ -1,4 +1,4 @@
-// Name: example.c
+// Name: simple_operator.c
 // Usage: Playing with operators
 // Author: William Gonzalez <will@wgz.sh>
 
